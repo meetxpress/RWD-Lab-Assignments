@@ -1,0 +1,13 @@
+body{
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;    
+}
+.back{
+    background-color: brown;    
+    width: 50%;
+    height: 250px;    
+}
